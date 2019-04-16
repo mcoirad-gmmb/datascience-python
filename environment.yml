@@ -46,7 +46,7 @@ dependencies:
 - urllib3=1.24.1
 - xgboost=0.81
 - pip:
-  - civis==1.9.4
+  - "--editable=git+https://github.com/mcoirad-gmmb/civis-python.git"
   - civisml-extensions==0.1.10
   - dropbox==9.3.0
   - googleads>=18.1.0
