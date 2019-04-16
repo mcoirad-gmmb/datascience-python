@@ -3,7 +3,6 @@ channels:
 - defaults
 - conda-forge
 dependencies:
-- awscli=1.16.121
 - beautifulsoup4=4.7.1
 - botocore=1.12.111
 - boto=2.49.0
