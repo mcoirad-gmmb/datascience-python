@@ -110,3 +110,7 @@ ENV VERSION=5.0.0 \
     VERSION_MAJOR=5 \
     VERSION_MINOR=0 \
     VERSION_MICRO=0
+
+# Install google cloud sql proxy
+RUN wget https://dl.google.com/cloudsql/cloud_sql_proxy.linux.amd64 -O cloud_sql_proxy
+RUN chmod +x cloud_sql_proxy
