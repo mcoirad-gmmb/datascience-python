@@ -61,3 +61,4 @@ dependencies:
   - python-simple-hipchat==0.4.0
   - requests-toolbelt==0.9.1
   - tensorflow==1.13.1
+  - O365==2.0.6
