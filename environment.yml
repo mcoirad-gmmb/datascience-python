@@ -61,3 +61,4 @@ dependencies:
   - python-simple-hipchat==0.4.0
   - requests-toolbelt==0.9.1
   - tensorflow==1.13.1
+  - xlrd==1.2.0
