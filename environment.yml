@@ -3,7 +3,7 @@ channels:
 - defaults
 - conda-forge
 dependencies:
-- beautifulsoup4=4.7.1
+- beautifulsoup4=4.8.2
 - botocore=1.12.111
 - boto=2.49.0
 - boto3=1.9.111
